@@ -1,0 +1,20 @@
+name: bru_api_client
+description: A starting point for Dart libraries or applications.
+version: 1.0.0
+
+repository: https://github.com/business-ru/bru_api_client_dart.git
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  crypto: ^3.0.6
+  dart_qjson: ^1.0.2
+  dio: ^5.8.0+1
+  simplified_uri: ^1.0.1
+  talker: ^4.9.2
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.24.0
+  import_sorter: ^4.6.0
