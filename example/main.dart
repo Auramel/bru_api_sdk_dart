@@ -1,6 +1,6 @@
 import 'dart:developer';
 
-import 'package:bru_api_sdk_dart/bru_api_client.dart';
+import 'package:bru_api_sdk_dart/bru_api_sdk_dart.dart';
 import 'package:bru_api_sdk_dart/src/config/models.dart';
 import 'package:bru_api_sdk_dart/src/interceptors/talker_interceptor.dart';
 
