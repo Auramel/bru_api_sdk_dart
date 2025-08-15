@@ -2,11 +2,11 @@
 import 'package:dio/dio.dart';
 
 // Project imports:
-import 'package:bru_api_client/src/clients/bid_client.dart';
-import 'package:bru_api_client/src/clients/tus_rest_client.dart';
-import 'package:bru_api_client/src/responses/bid_accounts_response.dart';
-import 'package:bru_api_client/src/responses/bid_me_response.dart';
-import 'package:bru_api_client/src/responses/bid_token_response.dart';
+import 'package:bru_api_sdk_dart/src/clients/bid_client.dart';
+import 'package:bru_api_sdk_dart/src/clients/tus_rest_client.dart';
+import 'package:bru_api_sdk_dart/src/responses/bid_accounts_response.dart';
+import 'package:bru_api_sdk_dart/src/responses/bid_me_response.dart';
+import 'package:bru_api_sdk_dart/src/responses/bid_token_response.dart';
 
 class BruApiClient {
   final String enterUrl;

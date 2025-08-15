@@ -1,5 +1,5 @@
-name: bru_api_client
-description: A starting point for Dart libraries or applications.
+name: bru_api_sdk_dart
+description: Business.ru API SDK
 version: 1.0.0
 
 repository: https://github.com/business-ru/bru_api_client_dart.git

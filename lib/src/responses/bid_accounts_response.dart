@@ -2,7 +2,7 @@
 import 'package:dart_qjson/dart_qjson.dart';
 
 // Project imports:
-import 'package:bru_api_client/src/data/dto/account.dart';
+import 'package:bru_api_sdk_dart/src/data/dto/account.dart';
 
 class BidAccountsResponse {
   final List<Account> accounts;

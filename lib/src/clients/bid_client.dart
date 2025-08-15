@@ -3,9 +3,9 @@ import 'package:dart_qjson/dart_qjson.dart';
 import 'package:dio/dio.dart';
 
 // Project imports:
-import 'package:bru_api_client/src/exceptions/null_token_exception.dart';
-import 'package:bru_api_client/src/responses/bid_me_response.dart';
-import 'package:bru_api_client/src/responses/bid_token_response.dart';
+import 'package:bru_api_sdk_dart/src/exceptions/null_token_exception.dart';
+import 'package:bru_api_sdk_dart/src/responses/bid_me_response.dart';
+import 'package:bru_api_sdk_dart/src/responses/bid_token_response.dart';
 
 class BidClient {
   final String clientSecret;

@@ -2,7 +2,7 @@
 import 'package:dart_qjson/dart_qjson.dart';
 
 // Project imports:
-import 'package:bru_api_client/src/data/dto/photos.dart';
+import 'package:bru_api_sdk_dart/src/data/dto/photos.dart';
 
 class BidMeResponse {
   final String? id;

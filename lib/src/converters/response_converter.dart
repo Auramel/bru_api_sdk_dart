@@ -2,7 +2,7 @@
 import 'package:dart_qjson/dart_qjson.dart';
 
 // Project imports:
-import 'package:bru_api_client/src/exceptions/exception_with_message.dart';
+import 'package:bru_api_sdk_dart/src/exceptions/exception_with_message.dart';
 
 abstract class ResponseConverter {
   static bool isSuccess(final JsonObject json) {
